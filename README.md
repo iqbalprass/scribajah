@@ -3,7 +3,7 @@
 
 // Daftar gambar dan jawabannya
 const dataGambar = [
-  {
+  
     gambar: "🍎",
     jawaban: "apel"
   },
